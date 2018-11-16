@@ -1,0 +1,10 @@
+.employee-details-section {
+    margin-top: 20px;
+    height: 450px;
+}
+
+.view-btn, .view-btn:active, .view-btn:hover {
+    background-image: linear-gradient(to bottom,#7224a7 0,#441562 100%);
+    border: 0;
+    color: #f0f0f0;
+}
