@@ -17,6 +17,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "bootstrap": "^4.1.3"
+    "bootstrap": "^4.3.1"
   }
 }
